@@ -15,4 +15,3 @@ rise
 jupyter-docx-bundler
 chardet
 ipyturtle
-jupyterthemes

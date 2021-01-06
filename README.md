@@ -53,6 +53,10 @@
 * I. Retour sur les cas des tris (fusion et quicksort)
 * II. Autres algorithmes
 
+### Cours 06 - Les arbres
+* I. Introduction
+* II. Notions générales sur les arbres
+* III. Arbres binaires
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].

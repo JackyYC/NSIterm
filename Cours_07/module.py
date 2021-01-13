@@ -35,7 +35,7 @@ class Stack():
         """
         return self.pile == []
     
-print(__name__)
+# print(__name__)
     
 if __name__ == "__main__":  
     
@@ -50,6 +50,6 @@ if __name__ == "__main__":
     s = Stack()
     assert s.isEmpty()
     s.push(4)
-    assert not s.isEmpty
+    assert not s.isEmpty()
     assert s.pop() == 4
     assert s.isEmpty()
